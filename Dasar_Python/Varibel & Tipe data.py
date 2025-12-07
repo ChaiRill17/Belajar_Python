@@ -1,7 +1,7 @@
 # VARIBEL & TIPE DATA
 # Variabel adalah tempat menyimpan data dengan tipe tertentu
 
-nama = 'akbar'  # string
+nama = 'Rill'  # string
 umur = 21       # integer
 tinggi = 165.0  # float
 lajang = True   # boolean

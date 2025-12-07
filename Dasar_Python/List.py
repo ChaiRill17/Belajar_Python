@@ -1,6 +1,5 @@
 # list adalah tipe data yang dapat menyimpan beberapa nilai dalam satu variabel
 buah = ['apel', 'jeruk', 'mangga']
-
 print('Buah favorit saya adalah:', buah [0]) 
 
 # mengubah nilai pada list

@@ -1,14 +1,14 @@
 # Boolean adalah tipe data yang hanya memiliki dua nilai, yaitu True (benar) dan False (salah)
 
-is_raining = True  # menyatakan bahwa sedang hujan
-is_sunny = False  # menyatakan bahwa tidak sedang cerah
+Hujan = True  # menyatakan bahwa sedang hujan
+Cerah = False  # menyatakan bahwa tidak sedang cerah
 
-print("Apakah sedang hujan?", is_raining)
-print("Apakah sedang cerah?", is_sunny)
+print("Apakah sedang hujan?", Hujan)
+print("Apakah sedang cerah?", Cerah)
 
 # Boolean sering digunakan dalam pengkondisian dan logika
 
-if is_raining:
+if Hujan:
     print("Bawa payung!")
 else:
     print("Tidak perlu payung.")
